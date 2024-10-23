@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI-related project learnings and coding 
 - 📫 How to reach me guru630172@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I' dedicated to self-improvement,whether it's through coding, workouts and personal growth.
+- ⚡ Fun fact: I'm dedicated to self-improvement,whether it's through coding, workouts and personal growth.
 
 <!---
 GuruprasathGP07/GuruprasathGP07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
