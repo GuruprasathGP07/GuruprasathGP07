@@ -50,3 +50,7 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GuruprasathGP07&color=blue)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/GuruprasathGP07/GuruprasathGP07/blob/output/github-contribution-grid-snake.svg)
