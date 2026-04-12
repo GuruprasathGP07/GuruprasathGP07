@@ -44,8 +44,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: ADD YOUR LINK HERE
-- 📧 Email: ADD YOUR EMAIL
+- 💼 LinkedIn: www.linkedin.com/in/guru-prasath-c-80920a328
+- 📧 Email: guru630172@gmail.com
 
 ---
 
