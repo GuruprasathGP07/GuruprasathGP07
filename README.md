@@ -112,11 +112,11 @@ class GuruPrasath:
 
 ### 📊 LeetCode
 
-<a href="https://leetcode.com/GuruprasathGP07/">
+<a href="https://leetcode.com/u/guru_2007-GP">
   <img src="https://leetcard.jacoblin.cool/GuruprasathGP07?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
 </a>
 <br/>
-<a href="https://leetcode.com/GuruprasathGP07/" target="_blank">
+<a href="https://leetcode.com/u/guru_2007-GP" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
@@ -156,7 +156,7 @@ class GuruPrasath:
 </table>
 
 <br/>
-<a href="https://www.codechef.com/users/GuruprasathGP07" target="_blank">
+<a href="https://www.codechef.com/users/kit28csa049" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
@@ -166,11 +166,11 @@ class GuruPrasath:
 
 ### 💡 Codeforces
 
-<a href="https://codeforces.com/profile/GuruprasathGP07" target="_blank">
+<a href="https://codeforces.com/profile/GURUX" target="_blank">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=GuruprasathGP07&theme=dark&show_icons=true&force=true" alt="Codeforces Stats" width="100%" />
 </a>
 <br/><br/>
-<a href="https://codeforces.com/profile/GuruprasathGP07" target="_blank">
+<a href="https://codeforces.com/profile/GURUX" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
