@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=React+%26+Node.js+Full-Stack+Developer;1500%2B+Problems+Solved+Across+Platforms;Top+10+Finalist+—+AI+for+All+Challenge+2026;B.E.+CSE+%40+KIT+Coimbatore+%7C+CGPA+8.63%2F10;Turning+ideas+into+production-ready+apps+%F0%9F%9A%80)](https://github.com/GuruprasathGP07)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=React+%26+Node.js+Full-Stack+Developer;1900%2B+Problems+Solved+Across+Platforms;Top+10+Finalist+—+AI+for+All+Challenge+2026;B.E.+CSE+%40+KIT+Coimbatore+%7C+CGPA+8.63%2F10;Turning+ideas+into+production-ready+apps+%F0%9F%9A%80)](https://github.com/GuruprasathGP07)
 
 </div>
 
