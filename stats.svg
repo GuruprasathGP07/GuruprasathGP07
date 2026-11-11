@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210"
+ font-family="JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace">
+<text x="20" y="70" font-size="64" font-weight="700" fill="#e6edf3">1094</text>
+<text x="22" y="95" font-size="13" fill="#8b949e">contributions in the last year</text>
+<g text-anchor="end">
+<text x="580" y="34" font-size="22" font-weight="700" fill="#e6edf3">148</text>
+<text x="580" y="50" font-size="11" fill="#8b949e">active days</text>
+<text x="580" y="80" font-size="22" font-weight="700" fill="#e6edf3">218</text>
+<text x="580" y="96" font-size="11" fill="#8b949e">best week</text>
+<text x="580" y="126" font-size="11" fill="#8b949e">streak 1d · longest 21d</text>
+</g>
+<g transform="translate(20,135)">
+<polygon points="0,60 0.0,60.0 10.8,60.0 21.5,60.0 32.3,60.0 43.1,60.0 53.8,60.0 64.6,59.7 75.4,60.0 86.2,60.0 96.9,60.0 107.7,60.0 118.5,60.0 129.2,60.0 140.0,60.0 150.8,60.0 161.5,60.0 172.3,60.0 183.1,55.3 193.8,51.2 204.6,58.3 215.4,55.3 226.2,48.7 236.9,49.5 247.7,54.5 258.5,39.4 269.2,54.8 280.0,44.9 290.8,51.7 301.5,52.6 312.3,53.9 323.1,56.7 333.8,0.0 344.6,35.8 355.4,39.9 366.2,23.7 376.9,54.2 387.7,60.0 398.5,60.0 409.2,60.0 420.0,58.6 430.8,59.7 441.5,59.7 452.3,55.0 463.1,56.1 473.8,52.0 484.6,54.8 495.4,53.7 506.2,57.5 516.9,58.3 527.7,58.9 538.5,59.4 549.2,56.7 560.0,58.1 560,60" fill="#58a6ff" opacity="0.15"/>
+<polyline points="0.0,60.0 10.8,60.0 21.5,60.0 32.3,60.0 43.1,60.0 53.8,60.0 64.6,59.7 75.4,60.0 86.2,60.0 96.9,60.0 107.7,60.0 118.5,60.0 129.2,60.0 140.0,60.0 150.8,60.0 161.5,60.0 172.3,60.0 183.1,55.3 193.8,51.2 204.6,58.3 215.4,55.3 226.2,48.7 236.9,49.5 247.7,54.5 258.5,39.4 269.2,54.8 280.0,44.9 290.8,51.7 301.5,52.6 312.3,53.9 323.1,56.7 333.8,0.0 344.6,35.8 355.4,39.9 366.2,23.7 376.9,54.2 387.7,60.0 398.5,60.0 409.2,60.0 420.0,58.6 430.8,59.7 441.5,59.7 452.3,55.0 463.1,56.1 473.8,52.0 484.6,54.8 495.4,53.7 506.2,57.5 516.9,58.3 527.7,58.9 538.5,59.4 549.2,56.7 560.0,58.1" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round"
+ stroke-dasharray="2000" stroke-dashoffset="2000">
+<animate attributeName="stroke-dashoffset" from="2000" to="0" dur="2s" fill="freeze"/></polyline>
+<circle cx="560.0" cy="58.1" r="4" fill="#e6edf3" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="2s" dur="0.3s" fill="freeze"/></circle>
+</g></svg>
